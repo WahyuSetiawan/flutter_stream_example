@@ -1,6 +1,6 @@
-# fluter_steram
+# Flutter Stream
 
-A new Flutter project.
+Contoh penggunaan Flutter Stream, untuk menjadi bahan dari website JuraganKoding.com
 
 ## Getting Started
 
